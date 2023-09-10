@@ -1,4 +1,3 @@
-
 Creación de arreglo de enteros:
 - El constructor le pide al usuario ingresar la longitud del arreglo,además el usuario debe ingresar cada uno de los números que contiene el arreglo.
 - El método maximo() devuelve el máximo de los números del arreglo.
